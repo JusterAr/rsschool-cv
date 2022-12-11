@@ -1,2 +1,2 @@
 #rsschool-cv
-https://github.com/JusterAr/rsschool-cv/blob/gh-pages/cv.md
+https://justerar.github.io/rsschool-cv/
